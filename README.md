@@ -1,3 +1,4 @@
 # belajar-kolaborasi
 * jujur
+* adil
   
