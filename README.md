@@ -2,4 +2,7 @@
 * jujur
 * adil
 * tekun
+* pintar
+* transparan
+* ulet
   
