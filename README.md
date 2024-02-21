@@ -3,4 +3,5 @@
 * adil
 * tekun
 * pintar
+* transparan
   
