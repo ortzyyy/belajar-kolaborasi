@@ -2,4 +2,5 @@
 * jujur
 * adil
 * tekun
+* pintar
   
