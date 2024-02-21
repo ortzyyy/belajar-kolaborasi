@@ -4,4 +4,5 @@
 * tekun
 * pintar
 * transparan
+* ulet
   
